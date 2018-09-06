@@ -267,8 +267,9 @@ ul#nav li.current a { color: #F06000; }
    border-bottom: 1px solid #E8E8E8;
 }
 #resume .info {
-   font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
+   font: 16px/24px 'opensans-bold', serif;
+   color: #11ABB0;
+   font-weight: 700;
    margin-bottom: 18px;
    margin-top: 9px;
 }
@@ -325,35 +326,35 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+.php {
+  	width: 95%;
+  	-moz-animation: php 2s ease;
+  	-webkit-animation: php 2s ease;
 }
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+.react {
+  	width: 85%;
+  	-moz-animation: react 2s ease;
+  	-webkit-animation: react 2s ease;
 }
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+.mysql {
+  	width: 85%;
+  	-moz-animation: mysql 2s ease;
+  	-webkit-animation: mysql 2s ease;
 }
-.css {
-  	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+.symfony {
+  	width: 95%;
+  	-moz-animation: symfony 2s ease;
+  	-webkit-animation: css symfony ease;
 }
-.html5 {
-  	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+.webpack {
+  	width: 70%;
+  	-moz-animation: webpack 2s ease;
+  	-webkit-animation: webpack 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.debugging {
+  	width: 95%;
+  	-moz-animation: debugging 2s ease;
+  	-webkit-animation: jquery debugging ease;
 }
 
 @-moz-keyframes photoshop {
