@@ -356,6 +356,16 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: debugging 2s ease;
   	-webkit-animation: jquery debugging ease;
 }
+.git {
+  	width: 95%;
+  	-moz-animation: webpack 2s ease;
+  	-webkit-animation: webpack 2s ease;
+}
+.ansible {
+  	width: 65%;
+  	-moz-animation: debugging 2s ease;
+  	-webkit-animation: jquery debugging ease;
+}
 
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
